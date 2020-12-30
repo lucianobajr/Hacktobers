@@ -1,2 +1,1 @@
-# cole
- 
+# Repositório para Hacktoberfests
